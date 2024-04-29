@@ -7,5 +7,4 @@
 </div>
     
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/rayene-ferreira-almeida/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-FFB6C1?style=for-the-badge)](https://web.dio.me/users/almeidarayene/)
   
