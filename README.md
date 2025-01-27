@@ -15,5 +15,8 @@
   </a>
 </div>
 
+![Snake animation](https://github.com/rayenealmeida/rayenealmeida/blob/output/github-contribution-grid-snake.svg)
+
+
     
   
