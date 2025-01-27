@@ -1,0 +1,25 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clona o repositório
+        uses: actions/checkout@v2
+
+      - name: Gera a animação da cobrinha
+        uses: Platane/snk@v2
+        with:
+          github_user_name: rayenealmeida 
+
+      - name: Faz upload do resultado
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-animation
+          path: dist/github-contribution-grid-snake.svg
