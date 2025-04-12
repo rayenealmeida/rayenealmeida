@@ -1,4 +1,5 @@
-# Hello World, I'm Ray
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F799FF&center=true&vCenter=true&width=500&lines=Hello+World%2C+I'm+Rayene)
+
 
 <table>
   <a href="https://github.com/rayenealmeida">
